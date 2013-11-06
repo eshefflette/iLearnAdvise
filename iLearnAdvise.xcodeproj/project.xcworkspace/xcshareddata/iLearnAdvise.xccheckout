@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>97A46234-0B1C-4A7E-930F-A8B26EE99BB3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iLearnAdvise</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>205A1C48-069A-4367-B373-AC1B442044D2</key>
+		<string>https://github.com/eshefflette/iLearnAdvise.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iLearnAdvise.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>205A1C48-069A-4367-B373-AC1B442044D2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/eshefflette/iLearnAdvise.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>205A1C48-069A-4367-B373-AC1B442044D2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>205A1C48-069A-4367-B373-AC1B442044D2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iLearnAdvise</string>
+		</dict>
+	</array>
+</dict>
+</plist>
